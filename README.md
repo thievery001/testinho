@@ -1,2 +1,2 @@
 # testinho
-teste de aula de Lab. de Comp. Aplic.
+Repertório criado para praticar github da disciplina Laboratório de Computação Aplicada
